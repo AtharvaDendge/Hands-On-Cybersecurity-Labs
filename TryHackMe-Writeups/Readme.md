@@ -5,6 +5,6 @@
 
 
 ## ⚠️ Disclaimer
-> This writeup is an independent educational walkthrough created for learning and documentation purposes only.  
-> Room names, logos, images, and any referenced platform assets belong to their respective owners.  
-> This repository is not affiliated with, endorsed by, or sponsored by TryHackMe or any other platform mentioned.
+> - This writeup is an independent educational walkthrough created for learning and documentation purposes only.  
+> - Room names, logos, images, and any referenced platform assets belong to their respective owners.  
+> - This repository is not affiliated with, endorsed by, or sponsored by TryHackMe or any other platform mentioned.
