@@ -1,4 +1,4 @@
-<h1 align="center">Room - FunboxEasyEnum</h1>
+<h1 align="center">Lab - FunboxEasyEnum</h1>
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/AtharvaDendge/Hands-On-Cybersecurity-Labs/blob/main/Offensive-Security-Writeups/Challenges/assets/Cybersecurity%20elements%20in%20red%20and%20purple.png" />
