@@ -1,8 +1,4 @@
-<h1 align="center">Room - Surfer</h1>
-
-<p align="center">
-  <img width="500" height="500" src="https://tryhackme-images.s3.amazonaws.com/room-icons/6924475c1dc389f44b230968c782d984.png" />
-</p>
+<h1 align="center">Room - That's The Ticket</h1>
 
 # Nmap Scan
 
